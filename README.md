@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anupya-bolt (Anupya Pamidimukkala). I am a Software Engineer in the Merchant Experience Team.
-- 👀 I’m interested in solving problems and learning new things (when needed) to solve 'em.
+- 👋 Hi, I’m @anupya-bolt (Anupya Pamidimukkala). I am a Software Engineer in the Enterprise Products Team.
+- 👀 I’m interested in solving problems and learning new technologies/best practices to solve 'em.
 - 🌱 I’m currently learning React.
 - 📫 Reach me at @anupyadeveloper on Twitter or anupya@bolt.com for work-related discussions.
 
